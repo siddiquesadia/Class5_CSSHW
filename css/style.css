@@ -1,0 +1,154 @@
+body{
+    background: #FFAFBD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.card_parent{
+    width: 80%;
+    
+    
+    margin:  auto;
+    
+
+}
+.card{
+    
+    width: 350px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px 25px;
+    margin: 25px auto;
+    display: inline-block;
+    border-style: groove;
+    font-family: cursive;
+ 
+}
+.solid h2{
+    text-align: center;
+    font-weight: bolder;
+    text-decoration:underline;
+}
+.solid a{
+    background-color: #070707;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: inline-block;
+    
+}
+.one{
+    background-color: #FFAFBD;
+    border-color: rgb(217, 158, 103);
+   
+}
+.two{
+    background-color: #6741d2;
+    border-color: rgb(229, 226, 223);
+   
+    color: azure;
+}
+.three{
+    background-color: #6ade75;
+    border-color: rgb(120, 108, 97);
+   
+    color: rgb(15, 16, 16);
+}
+.four{
+    background-color: #e8646a;
+    border-color: rgb(216, 207, 198);
+   
+    color: rgb(230, 246, 246);
+}
+.five{
+    background-color: #ba64e8;
+    border-color: rgb(216, 207, 198);
+   
+    color: rgb(10, 10, 10);
+}
+.place{
+    background-size: 100% 150px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background: #fc00ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.place a{
+    background-color: #c61c1c;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: inline-block;
+}
+.italy{
+    background-image: url(../images/italy.jpg);
+    
+    
+}
+.germany{
+    background-image: url(../images/Germany.jpg);
+    
+}
+.switzerland{
+    background-image: url(../images/switzerland.jpg);
+    padding-top: 32px;
+}
+.southkorea{
+    background-image: url(../images/korea.jpg);
+    font-weight: bold;
+    color: aliceblue;
+    padding-top: 32px;
+}
+.england{
+    background-image: url(../images/uk.jpg);
+    padding-top: 32px;
+}
+.daraz a{
+    background-color: white;
+    text-decoration: none;
+}
+.daraz{
+    border-style: double;
+    background-color: white;
+    background-size: 100% 200px;
+    background-repeat: no-repeat;
+    
+}
+.product1{
+    background-image: url(../images/daraz2.jpg);
+    
+
+}
+.product2{
+    background-image: url(../images/daraz3.jpg);
+    padding-top: 73px;
+
+}
+.product3{
+    background-image: url(../images/daraz1.jpg);
+}
+.gradient{
+    background: #fc00ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: yellow;
+font-weight: bold;
+font-size: 30px;
+}
+.first span{
+    font-size: 35px;
+    color: blue;
+}
+.second span{
+    font-size: 35px;
+    color: red;
+}
+.first{
+    padding-top: 98px;
+    background: #FC354C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0ABFBC, #FC354C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0ABFBC, #FC354C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
